@@ -1,6 +1,9 @@
-# Hoc phep tinh
-# Phep cong. Vi du 2 + 3 =  5
-a = 1000
-b = 12000
-tong = a + b 
-print(tong)
+for i in range(101) :
+
+    print ("hello Duc Anh")
+    
+    print ("hello Gia Phuc")
+
+    print ("hello bo Dung")
+
+    print ("hello me Vinh")
